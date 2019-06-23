@@ -3,7 +3,7 @@
 }
 
 #version:after {
-  content: "Responsive-Portfolio v1.0";
+  content: "Responsive-Portfolio v1.1";
   color: #cccccc;
   font-family: Georgia, Times, 'Times New Roman', serif;
   position: relative;
@@ -22,6 +22,7 @@ body, html {
   font-size: 12pt;
   height: 100%;
   margin: 0;
+  scroll-behavior: smooth;
 }
 
 .backgroundImage {
